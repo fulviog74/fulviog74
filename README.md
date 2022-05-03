@@ -1,4 +1,5 @@
 ### I am Fulvio and <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, 🌱 I’m currently learning ...
+![GitHub Repo stars](https://img.shields.io/github/stars/fulviog74/fulviog74)
 
 
 <!--
